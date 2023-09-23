@@ -6,7 +6,7 @@ A repo that stores files and folders regarding **HTTP 5111**. However, here HTTP
 
 ![HTML,CSS, Javascript](/_readme/tech.png)
 
-### Refrence links
+### Reference links
 
 - [HTML](https://www.w3schools.com/html/)
 - [CSS](https://www.w3schools.com/css/)

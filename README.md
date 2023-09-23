@@ -8,7 +8,7 @@ A repo that stores files and folders regarding **HTTP 5111**. However, here HTTP
 
 ### Refrence links
 
-    - [HTML](https://www.w3schools.com/html/)
+    - [`HTML`](https://www.w3schools.com/html/)
     - [CSS](https://www.w3schools.com/css/)
     - [Javascript](https://www.w3schools.com/js/default.asp)
 
